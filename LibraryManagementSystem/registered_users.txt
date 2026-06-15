@@ -1,0 +1,5 @@
+Badar,badar@gmail.com,5548868,1235
+ahmed,ahmed@gmail.com,9999999,0012345
+name,email,phone,password
+ badr ,badr@gmail.com,55555555,254612
+Ahmed,Ahmed@gmail.com,999999,12345
